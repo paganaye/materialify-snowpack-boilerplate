@@ -1,4 +1,4 @@
-npx create-snowpack-app new-dir --template @snowpack/app-template-svelte-typescript
+```npx create-snowpack-app new-dir --template @snowpack/app-template-svelte-typescript
 cd new-dir/
 npm i -D @snowpack/plugin-sass svelte-materialify svelte-preprocess sass postcss
 code .
@@ -14,3 +14,4 @@ edit the file src/app.svelte
 <MaterialApp>
   <Button class="primary-color">Hello Materialify</Button>
 </MaterialApp>
+```
