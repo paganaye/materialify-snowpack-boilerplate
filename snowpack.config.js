@@ -26,6 +26,9 @@ module.exports = {
   },
   proxy: {
     /* ... */
+      // Short form:
+      "../../styles/global": "xxx___global___xxx",
+   
   },
   alias: {
     /* ... */
